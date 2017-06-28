@@ -1,0 +1,10 @@
+d:\USERS\Jason\documents\visual studio 2015\Projects\Schools\SchoolsDB\bin\Debug\SchoolsDB.dll.config
+d:\USERS\Jason\documents\visual studio 2015\Projects\Schools\SchoolsDB\bin\Debug\SchoolsDB.dll
+d:\USERS\Jason\documents\visual studio 2015\Projects\Schools\SchoolsDB\bin\Debug\SchoolsDB.pdb
+d:\USERS\Jason\documents\visual studio 2015\Projects\Schools\SchoolsDB\bin\Debug\EntityFramework.dll
+d:\USERS\Jason\documents\visual studio 2015\Projects\Schools\SchoolsDB\bin\Debug\EntityFramework.SqlServer.dll
+d:\USERS\Jason\documents\visual studio 2015\Projects\Schools\SchoolsDB\bin\Debug\EntityFramework.xml
+d:\USERS\Jason\documents\visual studio 2015\Projects\Schools\SchoolsDB\bin\Debug\EntityFramework.SqlServer.xml
+d:\USERS\Jason\documents\visual studio 2015\Projects\Schools\SchoolsDB\obj\Debug\SchoolsDB.csprojResolveAssemblyReference.cache
+d:\USERS\Jason\documents\visual studio 2015\Projects\Schools\SchoolsDB\obj\Debug\SchoolsDB.dll
+d:\USERS\Jason\documents\visual studio 2015\Projects\Schools\SchoolsDB\obj\Debug\SchoolsDB.pdb
